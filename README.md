@@ -8,6 +8,7 @@ updated 27/03/2025 by oualid
 *   [New Feature 1: Dark mode support]
 *   [New Feature 2: Interactive animations]
 *   [New Feature 3: Live chat support]
+*   [new feature 4: Ai: soon]
 
 ## Getting Started
 
@@ -31,8 +32,8 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/walidhmri/dockerise.git
-cd dockerise
+git clone https://github.com/walidhmri/naftal_tickets.git
+cd naftal_tickets
 ```
 
 ### 2. Configure Environment Variables
@@ -57,7 +58,7 @@ This will start:
 - MySQL database
 - phpMyAdmin
 
-
+ 
 
 ### 4. Access the Application
 
@@ -88,13 +89,11 @@ password
 password
 ```
 
-## Contributing
 
-Feel free to fork the repository and submit pull requests.
 
 ## License
 
-free to use.
+not free to use
 
 
 ## If you have any troubles feel free to contact me at : 
