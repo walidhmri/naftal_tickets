@@ -1,11 +1,4 @@
 updated 27/03/2025 by oualid
-# Welcome to My New Website!
-
-This repository contains the source code for my brand-new website
-
-## About
-
-This website is designed to [briefly describe the purpose of the website, e.g., showcase my portfolio, share my blog posts, etc.]. It's built using [mention the technologies used, e.g., HTML, CSS, JavaScript, React, etc.].
 
 ## Features
 
