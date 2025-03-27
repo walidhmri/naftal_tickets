@@ -80,14 +80,7 @@ docker-compose down -v
 ```
 ## Connect to the secret santa with this credentials:
 
-email: 
-```
-user@walidhmri.io
-```
-password
-```
-password
-```
+seeds
 
 
 
