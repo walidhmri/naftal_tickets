@@ -1,6 +1,5 @@
 #!/bin/sh
  
- # التأكد من تثبيت الحزم عند التشغيل الأول
  
  composer install --no-progress --no-interaction
  
@@ -14,5 +13,3 @@
  php artisan route:clear
  php artisan serve --port=$PORT --host=0.0.0.0
  
- 
- # تشغيل التطبيق بدون استخدام php artisan serve
